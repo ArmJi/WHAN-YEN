@@ -82,7 +82,7 @@ const Shop = () => {
                   <SwiperSlide>
                     <div className="">
                       <div className="bg-tertiary">
-                        <img src={product.img} alt="" />
+                        <img src={product.img} alt="" className="w-full"/>
                       </div>
                       <h3 className="text-lg font-bold text-center py-[2rem]">
                         {product.name}
@@ -129,7 +129,7 @@ const Shop = () => {
                   <SwiperSlide>
                     <div className="">
                       <div className="bg-tertiary">
-                        <img src={product.img} alt="" />
+                        <img src={product.img} alt="" className="w-full"/>
                       </div>
                       <h3 className="text-lg font-bold text-center py-[2rem]">
                         {product.name}
