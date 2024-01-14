@@ -103,8 +103,8 @@ const Navbar = () => {
         </div>
         {/* ======================== LOGO ======================= */}
         <a href="/" className="flex items-center justify-center">
-          <p className="nav_logo text-xl md:text-3xl font-semibold font-primary text-primary">
-            Hwan-Yen
+          <p className="nav_logo text-lg xs:text-xl md:text-3xl font-semibold font-primary text-primary">
+            Whan-Yen
           </p>
         </a>
         {/* ======================== ACTIVE ICON ======================= */}

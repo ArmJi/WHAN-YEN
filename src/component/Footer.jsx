@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col items-center">
           <a href="/" className="flex items-center justify-center">
             <p className="nav_logo text-xl font-semibold font-primary  text-primary">
-              Hwan-Yen
+              Whan-Yen
             </p>
           </a>
           <p className="text-center max-w-[320px]">Homemade Ice-Cream</p>
@@ -87,7 +87,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="bg-white py-[1.5rem] flex justify-center items-center">
-        &#169; All Rights Reserved By Hwan-Yen
+        &#169; All Rights Reserved By Whan-Yen
       </div>
     </footer>
   );

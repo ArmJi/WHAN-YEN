@@ -16,7 +16,7 @@ const Hero = () => {
         <img className="hero_img_4 absolute" src={hero4} alt=""></img>
         <img className="hero_img_5 absolute" src={hero5} alt=""></img>
         <h1 className="hero_logo absolute text-primary font-primary">
-          Hwan-Yen
+          Whan-Yen
         </h1>
       </div>
     </section>

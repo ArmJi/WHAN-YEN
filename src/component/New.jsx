@@ -20,7 +20,7 @@ const New = () => {
           </h3>
           <p className="text-center font-semibold px-[1rem] mb-[.75rem] max-w-[400px]">
             Our classic ice cream is swirled with gooey brownies, chocolate
-            sauce and delicious espresso chocolate chips. Don’t blame us if your
+            sauce and delicious chocolate chips. Don’t blame us if your
             local barista starts to miss you.
           </p>
           <button
