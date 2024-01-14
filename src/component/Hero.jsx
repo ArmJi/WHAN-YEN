@@ -18,7 +18,6 @@ const Hero = () => {
         <h1 className="hero_logo absolute text-primary font-primary">
           Hwan-Yen
         </h1>
-        <img src="close" alt="" />
       </div>
     </section>
   );
