@@ -1,4 +1,4 @@
-import Item from "../component/item";
+import Item from "../component/Item";
 import Total from "../component/Total";
 import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
